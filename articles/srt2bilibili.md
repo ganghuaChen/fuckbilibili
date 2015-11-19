@@ -432,7 +432,3 @@ if __name__=='__main__':
 * Python 3.x
 * pysrt `pip3 install pysrt`
 * requests `pip3 install requests`
-
-***
-
-就是这样，点开导航栏中的 *cnBeining* 页面，你会发现更多有趣的东西~

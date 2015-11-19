@@ -170,4 +170,4 @@ if __name__ == '__main__':
 
 什么？上面的看不懂？那就直接拿来用吧！
 
-## [匿名弹幕解密器](http://danmu.fuckbilibili.com){:target="_blank"}
+点击导航栏的*匿名弹幕解密器*即可~
