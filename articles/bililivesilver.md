@@ -11,7 +11,7 @@ title:  "自动领直播间银瓜子"
 
 ## 事前唠个叨
 
-Beining又无聊写了个自动领B站直播间银瓜子的程序，我改了改，放了上来~
+[Beining](https://www.cnbeining.com/){:target="_blank"}又无聊写了个自动领B站直播间银瓜子的程序，我改了改，放了上来~
 
 最下面有惊喜哦~
 

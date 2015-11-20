@@ -432,3 +432,7 @@ if __name__=='__main__':
 * Python 3.x
 * pysrt `pip3 install pysrt`
 * requests `pip3 install requests`
+
+***
+
+此项目由[cnBeining](https://www.cnbeining.com/){:target="_blank"}开发和维护。
