@@ -339,16 +339,21 @@ INFO/DEBUG
 
 但决定权还是在你手里，若你提交你的Cookie，则默认阅读过并同意以上须知。
 
+***
 
-### 不想提交cookie?
+不想提交cookie，又不会用python，懒死你得了！
 
-使用js版吧 (详细说明: [Github](http://pa001024.github.io/BiliSilverCatcher/))
+## 使用js版吧！
 
-<a style="background: url(http://pa001024.github.io/BiliSilverCatcher/img/1.png) no-repeat 0 0;
+    只要将下面图片拖动到浏览器的书签栏
+    再在任意直播房间页面点击书签即可
+    注：请不要在多个页面同时使用（并不能加快瓜子领取）
+
+<a style="background: url(/public/img/1.png) no-repeat 0 0;
     cursor: move;
     display: block;
     height: 56px;
     width: 290px;
-    margin: 25px 0 0;" href="javascript:void (function(a,d){d=document.createElement('script');d.src=a;document.body.appendChild(d)})('http://pa001024.github.io/BiliSilverCatcher/bsc.js')" class="bookmark-drop-btn" alt="拖动我到书签栏">
-	<span>❤领瓜子</span>
+    margin: auto;" href="javascript:void (function(a,d){d=document.createElement('script');d.src=a;document.body.appendChild(d)})('http://pa001024.github.io/BiliSilverCatcher/bsc.js')" class="bookmark-drop-btn" alt="拖动我到书签栏">
+	<span style="visibility: hidden;">❤领瓜子</span>
 </a>
