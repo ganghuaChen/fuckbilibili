@@ -308,7 +308,7 @@ INFO/DEBUG
 什么？上面的都看不懂？？直接给你免费用吧，真是的（＞д＜）
 
 <div id="container">
-  <form method="post" id="downform" name="downform" action="https://www.fuckbilibili.com/script/get.php">
+  <form method="post" id="downform" name="downform" action="//dynamic.fuckbilibili.com/script/get.php">
   <p>将你的b站Cookie直接丢到这里即可~</p>
     <input type="text" name="Cookie" id="cookie_input" placeholder="LIVE_BUVID=xxx; LIVE_BUVID__ckMd5=xxx; DedeUserID=xxx; DedeUserID__ckMd5=xxx; SESSDATA=xxx; LIVE_LOGIN_DATA=xxx; LIVE_LOGIN_DATA__ckMd5=xxx; DedeID=xxx" />
     <input type="submit" style="display: none;" />
